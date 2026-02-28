@@ -1,0 +1,6 @@
+{
+  "name": "prysk",
+  "private": true,
+  "description": "Wraps the python test runner prysk",
+  "bin": "index.mjs"
+}

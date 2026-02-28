@@ -1,0 +1,8 @@
+{
+  "name": "@turbo/exe-stub",
+  "private": true,
+  "description": "Stub for turbo.exe",
+  "scripts": {
+    "build": "bash build.sh"
+  }
+}
